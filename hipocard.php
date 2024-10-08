@@ -5,7 +5,7 @@ class HipcardIntegration
 {
     protected string $apiKey;
     protected string $apiSecret;
-    protected string $apiUrl = 'https://www.hipopotamya.com/api/sandbox/v1/hipocard/epins';
+    protected string $apiUrl = 'https://www.hipopotamya.com/api/v1/hipocard/epins';
     protected string $epinCode;
     protected string $epinSecret;
     protected string $playerName;
